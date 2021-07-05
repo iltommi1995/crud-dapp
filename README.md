@@ -73,3 +73,9 @@ npm start
 ```
 
 You can check the application running on your browser:
+
+<div>
+  <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/crud_app.jpg" width="60%" />
+</div>
+
+
