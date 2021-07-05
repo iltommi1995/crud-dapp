@@ -91,5 +91,15 @@ Let's see the npm dependencies:
   <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/project-structure.png" width="15%" />
 </div>
 
+### Client folder
+
+The "client" folder contains the frontend of the application, made in React.
+
+As in the other projects, i organize the React components following the [Atomic Design](https://bradfrost.com/blog/post/atomic-web-design/) methodology, although in this project there are few components.
+
+Furthermore i didn't used class components but only functional components, with React Hooks.
+
+
+
 
 
