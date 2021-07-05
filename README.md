@@ -59,3 +59,17 @@ truffle compile
 ```
 truffle deploy
 ```
+
+Now the smart contracts are deployed, you have to go to the "client" folder and install the npm dependencies with:
+
+```
+npm install
+```
+
+Once installed the dependecies, all is ready and you only need to start the node server with:
+
+```
+npm start
+```
+
+You can check the application running on your browser:
