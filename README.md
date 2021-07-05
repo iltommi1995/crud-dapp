@@ -5,7 +5,7 @@
 ## Table of contents:
 - [Introduction](#introduction)
 - [Requirements](#requirements)
-- [Dependencies](#dependencies)
+- [Dependencies and installation](#dependencies-and-installation)
 - [Project structure](#project-structure)
   - [Client folder](#client-folder)
   - [Contracts folder](#contracts-folder)
@@ -47,3 +47,6 @@ Here you can see the Ganache UI, with all the accounts with the balances and the
   <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/metamask_account_2.jpg" width="20%" />
 </div>
 
+Once Metamask is correctly configured you can continue with the installation.
+
+## Dependencies and installation
