@@ -83,3 +83,8 @@ Let's see the npm dependencies:
 - [node-sass](https://www.npmjs.com/package/node-sass)
 - [react, react-dom and react-scripts](https://reactjs.org/)
 - [web3](https://web3js.readthedocs.io/en/v1.3.4/) --> a collaction of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
+
+
+## Project structure
+
+
