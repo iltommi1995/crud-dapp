@@ -104,11 +104,27 @@ Furthermore i didn't used class components but only functional components, with 
 </div>
 
 In the "components" folder there are all the React components with their scss files. 
-In the "contracts" folder there are the json generated compiling the smart contracts. In this json files there is data that the frontend need to use to connect to the smart contract deployed on the blockchain.
+In the "contracts" folder there are the json generated compiling the smart contracts. In this json files there is data that the frontend need to use to connect to the smart contract deployed to the blockchain.
 In the "utils" folder there are two files, containing the functions to instantiate the Web3 client and the smart contract instance.
 
 For a more detailed analysis of the code, i recommend reading the code's comments.
 
+### Contracts folder
 
+This folder contains the smart contracts written in Solidity. The "Crud" file is the smart contract on wich the application is based and contains all the CRUD functions.
 
+### Migrations folder
 
+The "migration" folder contains the JavaScript files needed to deploy the contracts to the Ethereum network.
+
+You can run the migration from the console with this command:
+
+```
+truffle migrate
+```
+
+### Test folder
+
+The "test" folder contains the JavaScript files needed to test the smart contracts. Indeed, once a smart contract is deployed to the network, you can't edit the code and fix bugs. The code is immutable, once it's in the blockchain. 
+
+Therefore smart contracts need to be tested carefully before being deployed to the Ethereum Mainnet, because deploying smart contracts costs Gas.
