@@ -50,3 +50,12 @@ Here you can see the Ganache UI, with all the accounts with the balances and the
 Once Metamask is correctly configured you can continue with the installation.
 
 ## Dependencies and installation
+
+You need to clone the repository on your computer, than compile and deploy the smart contracts to your local blockchain with this commands:
+```
+truffle compile
+```
+
+```
+truffle deploy
+```
