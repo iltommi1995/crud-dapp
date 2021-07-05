@@ -1,0 +1,8 @@
+.delete-icon {
+    cursor: pointer;
+    transition: all 0.2s!important;
+
+    &:hover {
+        transform: rotate(-45deg);
+    }
+}

@@ -1,0 +1,39 @@
+body {
+    margin: 0px;
+    height: 100vh;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+#root {
+  height: 100%!important;
+}
+
+/* Container table */
+.container {
+  height: 100%;
+  display: grid;
+  grid-template: repeat(12, 1fr) / repeat(12, 1fr);
+  gap: 15px;
+}
+
+/* Custom scrollbar */
+div::-webkit-scrollbar {
+  width: 6px!important;
+  height: 6px!important;
+}
+  
+div::-webkit-scrollbar-thumb {
+  background: #616fa0!important;
+  border-radius: 15px!important;
+}
+  
+div::-webkit-scrollbar-thumb:hover{
+  background: #2b3f7e!important;
+}
+  
+div::-webkit-scrollbar-track{
+  background: #ffffff!important;
+  border-radius: 10px!important;
+  box-shadow: inset 7px 10px 12px #f0f0f0!important;
+}
