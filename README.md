@@ -40,6 +40,8 @@ Once all the tools have been installed, you need to set up Metamask, connecting 
   <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/ganache_accounts.jpg" width="60%" />
 </div>
 
+Here you can see the Ganache UI, with all the accounts with the balances and the network informations. You'll need to connect Metamask to this local network, with one of the Ganache accounts, as you can see in the next two images.
+
 <div>
   <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/metamask_account.jpg" width="20%" />
   <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/metamask_account_2.jpg" width="20%" />
