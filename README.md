@@ -31,3 +31,7 @@ You need to have installed on your computer:
 - [truffle](https://www.trufflesuite.com/) --> a Solidity framework, made in Node.js, that you can simply install with npm
 - [ganache](https://www.trufflesuite.com/ganache) --> a local Ethereum blockchain that can be used to test smart contracts
 - [metamask](https://metamask.io/) --> a crypto wallet that you'll need to configure to interact with the application
+
+Otherwise, you can use [Remix](https://remix.ethereum.org/), an online Solidity IDE, to test smart contracts.
+
+once all the tools have been installed, you need to set up Metamask, connecting it to one of the automatic generated accounts of Ganache.
