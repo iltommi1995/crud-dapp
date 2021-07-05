@@ -78,4 +78,8 @@ You can check the application running on your browser:
   <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/crud_app.jpg" width="60%" />
 </div>
 
-
+Let's see the npm dependencies:
+- [@material-ui/core and @material-ui/icons](https://material-ui.com/)
+- [node-sass](https://www.npmjs.com/package/node-sass)
+- [react, react-dom and react-scripts](https://reactjs.org/)
+- [web3](https://web3js.readthedocs.io/en/v1.3.4/) --> a collaction of libraries that allow you to interact with a local or remote ethereum node using HTTP, IPC or WebSocket.
