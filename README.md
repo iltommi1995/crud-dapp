@@ -36,7 +36,7 @@ Otherwise, you can use [Remix](https://remix.ethereum.org/), an online Solidity 
 
 Once all the tools have been installed, you need to set up Metamask, connecting it to one of the automatic generated accounts of Ganache.
 
-<div style="display:flex; justify-content:center">
+<div style="display:flex; justify-content:center;">
   <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/ganache_accounts.jpg" width="60%" />
 </div>
 
