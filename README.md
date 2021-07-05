@@ -87,4 +87,9 @@ Let's see the npm dependencies:
 
 ## Project structure
 
+<div>
+  <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/project-structure.png" width="10%" />
+</div>
+
+
 
