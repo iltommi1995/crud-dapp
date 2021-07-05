@@ -99,6 +99,15 @@ As in the other projects, i organize the React components following the [Atomic 
 
 Furthermore i didn't used class components but only functional components, with React Hooks.
 
+<div>
+  <img src="https://github.com/iltommi1995/crud-dapp/blob/main/readme_img/client-structure.jpg" width="15%" />
+</div>
+
+In the "components" folder there are all the React components with their scss files. 
+In the "contracts" folder there are the json generated compiling the smart contracts. In this json files there is data that the frontend need to use to connect to the smart contract deployed on the blockchain.
+In the "utils" folder there are two files, containing the functions to instantiate the Web3 client and the smart contract instance.
+
+For a more detailed analysis of the code, i recommend reading the code's comments.
 
 
 
